@@ -10,5 +10,4 @@ dodger.style.bottom = '0px'
     if (right > 0){
     dodger.style.right = `${right + 1}px`;
     }
-  }}
-})
+}
